@@ -1,0 +1,26 @@
+.fixed{
+  background-attachment: fixed;
+}
+.home{
+  background-color: #343A40;
+  height: 500px;
+}
+.project{
+  height: 500px;
+}
+.blog{
+  height: 500px;
+}
+.blog img{
+  height: 230px;
+}
+.about{
+  margin-top: 150px;
+  height: 700px;
+  background-color: #343A40;
+}
+.about img{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
